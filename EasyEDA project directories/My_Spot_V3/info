@@ -1,0 +1,1110 @@
+{
+  "uuid": "d9dc6a418ee952b3698321feaa148daa",
+  "path": "Offline/My_Spot_V3",
+  "name": "My_Spot_V3",
+  "content": "",
+  "created_at": "2023-09-07 20:28:17",
+  "updated_at": "2025-02-01 16:42:02",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d620419c05be812fe7c04fedb6ebe51e",
+      "title": "Control Board V3",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f931d9d9e5ad45d8b9db8732317f9447": 1,
+        "7a046cf4b38c4fccae7253b92b37c0e4": 1,
+        "f0bc163659d742bc8f021d00cdeb85b2": 6,
+        "f5b1d9403e49471cab43bc5a1bec336f": 4,
+        "a9aa2b14f188405792fa87ac344499a4": 2,
+        "56994305955647eda299fec7cb5fcf23": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 5,
+        "6e00d5a88a1f40319ea539e9472c1408": 1,
+        "ccbcc28c788e211f4c459153861ea19d": 1,
+        "96582b6778a1484b80b80d152fb7d25f": 1,
+        "ed9eb2faffb34286820a54a14e9e9e24": 17,
+        "e691ecce73f74adc83e15434646ffa2d": 1,
+        "7fd94a730bfd4313aa60fe8d292400ce": 1,
+        "1cedfdf8160c4add9c6ad05cb71e8714": 4,
+        "5610917735b8590d40a1331478780818": 1,
+        "8e0b879f789c4a3f92f405b7307d71dd": 3,
+        "36f681d3a20b4e35873b5e260ef012d3": 1,
+        "fdc30a99227f4d5fb7d7ced7efcf2609": 1,
+        "b7da92bb82854eb5b0aababed53dcf84": 1,
+        "9bf896a8abf5469fb13ba9eae8097812": 1,
+        "dbfa7da092bc44faa13a86aaa683160b": 3,
+        "e8227dd34355fb317f612b5079bf676c": 1,
+        "58824ba29e424adc8c32d16b04147bf7": 2,
+        "17bdbb9d22ba43658b8c7fdbf74a58e2": 1,
+        "a052559478a14ee2b9e3514bee4ff72d": 1,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 3,
+        "32af83b1469f425c94cecb1bf0b30f9b": 1,
+        "89026c0e23ca49dcb85d26a1d0805b33": 2,
+        "fbc9a081bfdb44a9b58b590f7333863a": 1,
+        "35f4159e8c9f46588bc3ac5551d5e8a5": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 7,
+        "8c95eef853b1473e9539399823e4b359": 2,
+        "a13b0d9b0fa541efa4e94f264805cab7": 1,
+        "a7291ceaee5442a999df26c55c7e675d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100u",
+          4,
+          "CAP-D6.3×F2.5",
+          "C1,C2,C5,C11",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "CE_TH_D8.0×F3.5_EU",
+            "Manufacturer Part": "",
+            "puuid": "f22f57806f1b484c9525ae585bd9e142",
+            "uuid": "1cedfdf8160c4add9c6ad05cb71e8714"
+          }
+        ],
+        [
+          "100n",
+          1,
+          "C0805",
+          "C3",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "CE_TH_D4.0×F1.5_EU",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "56994305955647eda299fec7cb5fcf23"
+          }
+        ],
+        [
+          "470u",
+          1,
+          "CAP-D10.0×F5.0",
+          "C4",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "CE_TH_D10.0×F5.0_EU",
+            "Manufacturer Part": "",
+            "puuid": "986ca71d43e94c6f946f952ade660c20",
+            "uuid": "7a046cf4b38c4fccae7253b92b37c0e4"
+          }
+        ],
+        [
+          "22p",
+          2,
+          "C0805",
+          "C6,C9",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "100n",
+          2,
+          "C0805",
+          "C7,C8",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_RAD-0.1_US",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "C0805",
+          "C10",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_RAD-0.1_US",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "DIODE_DO35",
+          "D1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "1N5817",
+            "Manufacturer": "MDD",
+            "Supplier Part": "C3062",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "1N5817",
+            "puuid": "7843b82012604eaea41071f582deffa7",
+            "uuid": "ccbcc28c788e211f4c459153861ea19d"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          5,
+          "HDR-M-2.54_1X3",
+          "DMX_XLR1_OUT,DMX_XLR3_IN,J12,J14,LED_BOARD",
+          {
+            "Supplier Part": "C180248",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x3",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x16",
+          1,
+          "HDR-F-2.54_1X16",
+          "H1",
+          {
+            "Supplier Part": "C66987",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x16",
+            "puuid": "29c1c15af3f64c36a30bd7e9025580c2",
+            "uuid": "fbc9a081bfdb44a9b58b590f7333863a"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          7,
+          "HDR-F-2.54_1X2",
+          "H2,H3,H4,H5,H6,H7,H8",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          2,
+          "HDR-F-2.54_1X3",
+          "H9,H10",
+          {
+            "Supplier Part": "C146690",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x3",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          2,
+          "HDR-M-2.54_1X2",
+          "J1,J15",
+          {
+            "Supplier Part": "C124375",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x2",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          2,
+          "HDR-M-2.54_2X3",
+          "J2,J3",
+          {
+            "Supplier Part": "C65114",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_2x3",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          4,
+          "HDR-M-2.54_1X4",
+          "J4,J8,J9,J16",
+          {
+            "Supplier Part": "C124378",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x4",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          1,
+          "HDR-M-2.54_1X5",
+          "J17",
+          {
+            "Supplier Part": "C358687",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x5",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "button6*6*8.5",
+          1,
+          "KEY-TH_4P-L6.0-W6.0-P4.50",
+          "KEY1",
+          {
+            "Supplier Part": "C59980",
+            "Supplier": "LCSC",
+            "Manufacturer": "ReliaPro",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "button6*6*8.5",
+            "puuid": "9096c4e6bc254754b0b895e85df2faca",
+            "uuid": "e8227dd34355fb317f612b5079bf676c"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          3,
+          "LED-TH_BD5.0_RED",
+          "LED1,LED2,LED3",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Supplier Part": "C87271",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "LED-TH-5mm_R",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "XT60PW-F",
+          1,
+          "TH_2P-XT60PW-F",
+          "PSU1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900000737",
+            "Manufacturer": "null",
+            "Manufacturer Part": "XT60PW-F 母头 板插卧式",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "XT60PW-F",
+            "puuid": "d7bf812b6940412ca5b405aec7550210",
+            "uuid": "7fd94a730bfd4313aa60fe8d292400ce"
+          }
+        ],
+        [
+          "BC817-40",
+          2,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+          "Q1,Q2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2931726",
+            "Manufacturer": "Doeshare(德芯)",
+            "Manufacturer Part": "",
+            "spiceSymbolName": "BC817-40_C2931726",
+            "puuid": "b3b82869fa924bae820e3a6cfb44d689",
+            "uuid": "58824ba29e424adc8c32d16b04147bf7"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0805",
+          "R1,R23",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "10k",
+          4,
+          "R0805",
+          "R2,R11,R15,R17",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "120",
+          1,
+          "R0805",
+          "R3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0805",
+          "R4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "160",
+          1,
+          "R_AXIAL-0.4",
+          "R5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "500",
+          1,
+          "R0805",
+          "R6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "2.7k",
+          1,
+          "R0805",
+          "R7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "400",
+          1,
+          "R0805",
+          "R8",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "2.7",
+          1,
+          "R0805",
+          "R9",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "2k",
+          1,
+          "R0805",
+          "R10",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "3840",
+          1,
+          "R0805",
+          "R12",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "1k",
+          4,
+          "R0805",
+          "R13,R14,R16,R20",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R0805",
+          "R18",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "0",
+          3,
+          "R0805",
+          "R19,R21,R22",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "A4988 S2",
+          3,
+          "A4988",
+          "S_C_1,S_C_2,S_C_3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Sutee.S",
+            "spiceSymbolName": "A4988 S2",
+            "puuid": "abb601d2f8aa4e1fbca19a237a6a8542",
+            "uuid": "8e0b879f789c4a3f92f405b7307d71dd"
+          }
+        ],
+        [
+          "TBG5KW Terminal block 5P",
+          1,
+          "TBG5KW-5GN",
+          "U1",
+          {
+            "Manufacturer": "NINIGI",
+            "Manufacturer Part": "TBG5KW-5GN",
+            "Supplier": "HESTORE",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "benulino",
+            "spiceSymbolName": "TBG5KW Terminal block 5P",
+            "puuid": "cac755bbbcdd411987b5b14d2998efa9",
+            "uuid": "35f4159e8c9f46588bc3ac5551d5e8a5"
+          }
+        ],
+        [
+          "ATMEGA328P-PN",
+          1,
+          "PDIP-28_L35.0-W7.3-P2.54-LS7.8-BL",
+          "U2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1337455",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ATMEGA328P-PN",
+            "puuid": "a7664493ef4849a79ab3f005d3738038",
+            "uuid": "f931d9d9e5ad45d8b9db8732317f9447"
+          }
+        ],
+        [
+          "CT6N137",
+          1,
+          "DIP-8_L9.7-W6.4-P2.54-LS7.6-BL",
+          "U3",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C191866",
+            "Manufacturer": "CT Micro International",
+            "Manufacturer Part": "CT6N137",
+            "Contributor": "LCSC",
+            "spiceSymbolName": "CT6N137",
+            "puuid": "26ddc6f916344af197d04f4724b10b8a",
+            "uuid": "fdc30a99227f4d5fb7d7ced7efcf2609"
+          }
+        ],
+        [
+          "B0505S-1WR3",
+          1,
+          "PWRM-TH_B0503S-1WR2",
+          "U4",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "MORNSUN(金升阳)",
+            "Manufacturer Part": "B0505S-1WR3",
+            "Supplier Part": "C131038",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "B0505S-1WR3",
+            "puuid": "c6105746ef3f4321b4e4783e44ba38be",
+            "uuid": "36f681d3a20b4e35873b5e260ef012d3"
+          }
+        ],
+        [
+          "LQ-12S RELAY",
+          1,
+          "LQ-12S RELAY",
+          "U5",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "benulino",
+            "spiceSymbolName": "LQ-12S RELAY",
+            "puuid": "cd140df69b824d98904e51c58ea67e94",
+            "uuid": "96582b6778a1484b80b80d152fb7d25f"
+          }
+        ],
+        [
+          "RAD-DY-GF/3 Heatsink",
+          1,
+          "RAD-DY-GF/3",
+          "U6",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "Benulino",
+            "spiceSymbolName": "RAD-DY-GF/3 Heatsink",
+            "puuid": "3a888ba403744d52996c8163543687f5",
+            "uuid": "a13b0d9b0fa541efa4e94f264805cab7"
+          }
+        ],
+        [
+          "MC78M12CDTG",
+          1,
+          "TO-252-2_L6.6-W6.1-P4.58-LS9.9-TL",
+          "U7",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C233399",
+            "Manufacturer": "onsemi(安森美)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "MC78M12CDTG",
+            "puuid": "c4e7516f48874620b9c81b90bd9fc803",
+            "uuid": "32af83b1469f425c94cecb1bf0b30f9b"
+          }
+        ],
+        [
+          "LM7805CT",
+          1,
+          "TO-220-3_L10.0-W4.5-P2.54-L",
+          "U8",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "onsemi(安森美)",
+            "Manufacturer Part": "LM7805CT",
+            "Supplier Part": "C22146",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "LM7805CT",
+            "puuid": "948e610cffd14df79f04c73832b1409b",
+            "uuid": "5610917735b8590d40a1331478780818"
+          }
+        ],
+        [
+          "SN75176BPE4",
+          1,
+          "PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL",
+          "U9",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C1544856",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "SN75176BPE4",
+            "link": "",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SN75176BPE4",
+            "puuid": "f284c7ac951949f9960f0c7cf78e2666",
+            "uuid": "6e00d5a88a1f40319ea539e9472c1408"
+          }
+        ],
+        [
+          "NodeMCU-32S",
+          1,
+          "NODE_MCU_32S",
+          "U10",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "NodeMCU",
+            "link": "https://www.hestore.hu/prod_10037961.html",
+            "Contributor": "benulino",
+            "spiceSymbolName": "NodeMCU-32S",
+            "puuid": "f72c85dee4454c2e8cf3e0e09002b3cc",
+            "uuid": "b7da92bb82854eb5b0aababed53dcf84"
+          }
+        ],
+        [
+          "LM358_C329455",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U12",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C329455",
+            "Manufacturer": "IDCHIP(英锐芯)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "LM358_C329455",
+            "puuid": "2436bf05661b4486b52c0ac0bbf7b52f",
+            "uuid": "17bdbb9d22ba43658b8c7fdbf74a58e2"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x10",
+          1,
+          "HDR-F-2.54_1X10",
+          "UI_BOARD",
+          {
+            "Supplier Part": "C35445",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x10",
+            "Package Display": "No",
+            "puuid": "af1bce44cacb47cda450f7e17ba302b4",
+            "uuid": "e691ecce73f74adc83e15434646ffa2d"
+          }
+        ],
+        [
+          "TFX-04-32.768KJ91233",
+          1,
+          "CRYSTAL-TH_L10.8-W4.5-P4.88",
+          "Y16MHZ",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4748664",
+            "Manufacturer": "null",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "TFX-04-32.768KJ91233",
+            "puuid": "7710aa12be3b43c6add5a0829d9861dc",
+            "uuid": "9bf896a8abf5469fb13ba9eae8097812"
+          }
+        ]
+      ],
+      "updateTime": 1738424522,
+      "createTime": 1691581968,
+      "histories": [],
+      "created_at": "2023-08-09 13:52:48",
+      "updated_at": "2025-02-01 16:42:02"
+    },
+    {
+      "uuid": "f66518f8363efc9f5b93db0a199ecd89",
+      "title": "PCB_My_Spot_V3",
+      "filename": "PCB_My_Spot_V3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 4,
+        "b60f399a7a7e41848b2be1eb49c79141": 22,
+        "f83673d09e13450d934ca6be4be5af8f": 2,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "36b1306a115341f4b4d9407fb34974e0": 7,
+        "ce0ed154d45b41508e0debca8473ba07": 3,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 4,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 3,
+        "3a888ba403744d52996c8163543687f5": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 2,
+        "cac755bbbcdd411987b5b14d2998efa9": 1,
+        "29c1c15af3f64c36a30bd7e9025580c2": 1,
+        "af1bce44cacb47cda450f7e17ba302b4": 1,
+        "70aa5812f21f4991bf427395d51849f4": 2,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "c4e7516f48874620b9c81b90bd9fc803": 1
+      },
+      "BOM": [],
+      "updateTime": 1696863118,
+      "createTime": 1691605558,
+      "histories": [],
+      "created_at": "2023-08-09 20:25:58",
+      "updated_at": "2023-10-09 16:51:58"
+    },
+    {
+      "uuid": "f339b968b6b61f36e2d4c6e6d852c2b0",
+      "title": "PCB_My_Spot_V3 DIY Version",
+      "filename": "PCB_My_Spot_V3 DIY Version.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "70aa5812f21f4991bf427395d51849f4": 11,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "282f7786cb6144d097ae00194c3e3fb3": 3,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 2,
+        "5905db98cde4487fbb177070aa85bbe1": 2,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 2,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 2,
+        "b60f399a7a7e41848b2be1eb49c79141": 12,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "c4e7516f48874620b9c81b90bd9fc803": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "fb95bdea7e4c47178f8936f7bcf0994e": 16,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "f0137dccc8be4f448af5e7cc9bba0fb1": 1,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "f0586c3c87f048848241bc4c26c52041": 1,
+        "af1bce44cacb47cda450f7e17ba302b4": 1
+      },
+      "BOM": [],
+      "updateTime": 1694114010,
+      "createTime": 1694114010,
+      "histories": [],
+      "created_at": "2023-09-07 21:13:30",
+      "updated_at": "2023-09-07 21:13:30"
+    },
+    {
+      "uuid": "0ae9ed3d5be14ad8902f88b2984ba5ef",
+      "title": "PCB_My_Spot_V3 safety save 23.09.16",
+      "filename": "PCB_My_Spot_V3 safety save 23.09.16.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b60f399a7a7e41848b2be1eb49c79141": 18,
+        "c4e7516f48874620b9c81b90bd9fc803": 1,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "3a888ba403744d52996c8163543687f5": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 2,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "cac755bbbcdd411987b5b14d2998efa9": 1,
+        "29c1c15af3f64c36a30bd7e9025580c2": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 3,
+        "af1bce44cacb47cda450f7e17ba302b4": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "70aa5812f21f4991bf427395d51849f4": 3,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 3,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 2,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 2,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1
+      },
+      "BOM": [],
+      "updateTime": 1694876446,
+      "createTime": 1694876446,
+      "histories": [],
+      "created_at": "2023-09-16 17:00:46",
+      "updated_at": "2023-09-16 17:00:46"
+    },
+    {
+      "uuid": "8ec09d309913440b9bb65b4a33598d13",
+      "title": "PCB_My_Spot_V3 safety save 23.09.16. 2",
+      "filename": "PCB_My_Spot_V3 safety save 23.09.16. 2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 7,
+        "b60f399a7a7e41848b2be1eb49c79141": 21,
+        "36b1306a115341f4b4d9407fb34974e0": 7,
+        "c4e7516f48874620b9c81b90bd9fc803": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 3,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 4,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 3,
+        "3a888ba403744d52996c8163543687f5": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 2,
+        "cac755bbbcdd411987b5b14d2998efa9": 1,
+        "29c1c15af3f64c36a30bd7e9025580c2": 1,
+        "af1bce44cacb47cda450f7e17ba302b4": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "70aa5812f21f4991bf427395d51849f4": 3,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 2,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1
+      },
+      "BOM": [],
+      "updateTime": 1694879657,
+      "createTime": 1694879657,
+      "histories": [],
+      "created_at": "2023-09-16 17:54:17",
+      "updated_at": "2023-09-16 17:54:17"
+    },
+    {
+      "uuid": "95b10fd1392745b8e6d95084240e40b2",
+      "title": "PCB_My_Spot_V3 safety save 23.09.16. 3",
+      "filename": "PCB_My_Spot_V3 safety save 23.09.16. 3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 7,
+        "b60f399a7a7e41848b2be1eb49c79141": 21,
+        "36b1306a115341f4b4d9407fb34974e0": 7,
+        "c4e7516f48874620b9c81b90bd9fc803": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 3,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 4,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 3,
+        "3a888ba403744d52996c8163543687f5": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 2,
+        "cac755bbbcdd411987b5b14d2998efa9": 1,
+        "29c1c15af3f64c36a30bd7e9025580c2": 1,
+        "af1bce44cacb47cda450f7e17ba302b4": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "70aa5812f21f4991bf427395d51849f4": 3,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 2,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1
+      },
+      "BOM": [],
+      "updateTime": 1694887813,
+      "createTime": 1694887813,
+      "histories": [],
+      "created_at": "2023-09-16 20:10:13",
+      "updated_at": "2023-09-16 20:10:13"
+    },
+    {
+      "uuid": "c5564053d25578cb0f40471232e37d4c",
+      "title": "PCB_My_Spot_V3 safety save 23.09.23",
+      "filename": "PCB_My_Spot_V3 safety save 23.09.23.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 6,
+        "b60f399a7a7e41848b2be1eb49c79141": 21,
+        "c4e7516f48874620b9c81b90bd9fc803": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 3,
+        "9f77654394344f25b3de138e0fe05ff6": 5,
+        "36b1306a115341f4b4d9407fb34974e0": 7,
+        "ce0ed154d45b41508e0debca8473ba07": 3,
+        "d7bf812b6940412ca5b405aec7550210": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 4,
+        "abb601d2f8aa4e1fbca19a237a6a8542": 3,
+        "3a888ba403744d52996c8163543687f5": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 2,
+        "cac755bbbcdd411987b5b14d2998efa9": 1,
+        "29c1c15af3f64c36a30bd7e9025580c2": 1,
+        "af1bce44cacb47cda450f7e17ba302b4": 1,
+        "70aa5812f21f4991bf427395d51849f4": 3,
+        "a7664493ef4849a79ab3f005d3738038": 1,
+        "7843b82012604eaea41071f582deffa7": 1,
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 1,
+        "9096c4e6bc254754b0b895e85df2faca": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "26ddc6f916344af197d04f4724b10b8a": 1,
+        "c6105746ef3f4321b4e4783e44ba38be": 1,
+        "cd140df69b824d98904e51c58ea67e94": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "f284c7ac951949f9960f0c7cf78e2666": 1,
+        "f72c85dee4454c2e8cf3e0e09002b3cc": 1,
+        "7710aa12be3b43c6add5a0829d9861dc": 1,
+        "b3b82869fa924bae820e3a6cfb44d689": 2,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1
+      },
+      "BOM": [],
+      "updateTime": 1695482043,
+      "createTime": 1695482043,
+      "histories": [],
+      "created_at": "2023-09-23 17:14:03",
+      "updated_at": "2023-09-23 17:14:03"
+    }
+  ],
+  "sort": [],
+  "title": "My_Spot_V3",
+  "foldername": "My_Spot_V3",
+  "schfilename": "My_Spot_V3.json",
+  "schfilemtime": 1738424522410
+}

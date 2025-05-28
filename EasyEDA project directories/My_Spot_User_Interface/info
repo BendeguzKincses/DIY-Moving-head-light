@@ -1,0 +1,233 @@
+{
+  "uuid": "72d0e6275317cda8607b4fb2547db64f",
+  "path": "Offline/My_Spot_User_Interface",
+  "name": "My_Spot_User_Interface",
+  "content": "",
+  "created_at": "2023-09-17 20:23:44",
+  "updated_at": "2025-02-20 18:34:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8959f3e16563a49ad56b5131025bab99",
+      "title": "User Interface",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "21507fe462954ebb909a348552869f94": 4,
+        "e691ecce73f74adc83e15434646ffa2d": 2,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "ce92acfdc8024ab38f76e1c48c22973d": 1,
+        "f0bc163659d742bc8f021d00cdeb85b2": 8,
+        "59d6d42fb478482e83852243fcdc6db6": 4,
+        "9b5e9c0f817748899f7d5d2d6bc680af": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          4,
+          "RAD-0.1",
+          "C1,C2,C3,C4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_RAD-0.1_EU",
+            "Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "59d6d42fb478482e83852243fcdc6db6"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x10",
+          2,
+          "HDR-F-2.54_1X10",
+          "H1,H2",
+          {
+            "Supplier Part": "C35445",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x10",
+            "Package Display": "No",
+            "puuid": "af1bce44cacb47cda450f7e17ba302b4",
+            "uuid": "e691ecce73f74adc83e15434646ffa2d"
+          }
+        ],
+        [
+          "K4-12×12_TH",
+          4,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1,KEY2,KEY3,KEY4",
+          {
+            "Supplier Part": "C128053",
+            "Supplier": "LCSC",
+            "Manufacturer": "韩国韩荣",
+            "Manufacturer Part": "K2-1103DP-M4SW-04",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "K4-12×12_TH",
+            "puuid": "a98235252ba749888f74d5b8012c8785",
+            "uuid": "21507fe462954ebb909a348552869f94"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED1",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Supplier Part": "C87271",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "LED-TH-5mm_R",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "LED-TH-5mm_G",
+          1,
+          "LED-TH_BD5.0_GREEN",
+          "LED2",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "333-2SYGD/S530-E2",
+            "Supplier Part": "C88163",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "LED-TH-5mm_G",
+            "puuid": "4da2878e35f448b0bac90f757c43e1e6",
+            "uuid": "ce92acfdc8024ab38f76e1c48c22973d"
+          }
+        ],
+        [
+          "200",
+          2,
+          "R_AXIAL-0.4",
+          "R1,R2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "10k",
+          4,
+          "R_AXIAL-0.4",
+          "R3,R4,R5,R6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.4",
+          "R7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "515",
+          1,
+          "R_AXIAL-0.4",
+          "R8",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_EU",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ],
+        [
+          "Oled module 128*32",
+          1,
+          "OLED 128X32",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "Benulino",
+            "spiceSymbolName": "Oled module 128*32",
+            "puuid": "f64ff440eade4ef0b439be6694e1423f",
+            "uuid": "9b5e9c0f817748899f7d5d2d6bc680af"
+          }
+        ]
+      ],
+      "updateTime": 1740072877,
+      "createTime": 1694975108,
+      "histories": [],
+      "created_at": "2023-09-17 20:25:08",
+      "updated_at": "2025-02-20 18:34:37"
+    },
+    {
+      "uuid": "77744c4b08d759bfaded8c8989c34d24",
+      "puuid": "72d0e6275317cda8607b4fb2547db64f",
+      "title": "PCB_My_Spot_User_Interface",
+      "filename": "PCB_My_Spot_User_Interface.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "af1bce44cacb47cda450f7e17ba302b4": 2,
+        "a98235252ba749888f74d5b8012c8785": 4,
+        "ce0ed154d45b41508e0debca8473ba07": 1,
+        "4da2878e35f448b0bac90f757c43e1e6": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 8,
+        "ea82fbe34d7840de9fdcf3145ab199ef": 4,
+        "f64ff440eade4ef0b439be6694e1423f": 1
+      },
+      "BOM": [],
+      "updateTime": 1697914124,
+      "createTime": 1695454909,
+      "histories": [],
+      "created_at": "2023-09-23 09:41:49",
+      "updated_at": "2023-10-21 20:48:44"
+    }
+  ],
+  "sort": [
+    "8959f3e16563a49ad56b5131025bab99"
+  ],
+  "title": "My_Spot_User_Interface",
+  "foldername": "My_Spot_User_Interface",
+  "schfilename": "My_Spot_User_Interface.json",
+  "schfilemtime": 1740072877560
+}
