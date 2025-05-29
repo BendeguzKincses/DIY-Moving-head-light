@@ -5,6 +5,7 @@
 - [English description](#english-description)
     - [Overview](#overview)
     - [Introduction](#introduction)
+    - [Mechanical and Electronic Implementation](#mechanical-and-electronic-implementation)
     - [Software Implementation](#software-implementation)
     - [Results and Advantages](#results-and-advantages)
     - [Conclusion](#conclusion)
@@ -21,7 +22,9 @@ I made a functional moving head light by using 3D printing, CAD modelling, PCB d
 
 ### Introduction
 In general, robotic lights are lighting technology devices used for stage illumination. They are extremely widespread tools today, found on every stage from rural theaters to the most sophisticated international concerts. The goal of this project was to create a robotic light that possesses functionality similar to professional devices, while simultaneously prioritizing learning and gaining experience. Among the devices used in stage technology, the robotic light I implemented can be categorized as a moving head spot light. In simpler terms, it's a moving head spot light with motorized zoom and focus functions. The term "moving head" refers to the lamp's head being able to rotate robotically along two axes via remote control. The term "spot light" refers to the shape of the lamp's projected image, while "motorized zoom" means that the size of the projected spot can be remotely and motorically reduced or enlarged.
-Mechanical and Electronic Implementation: The robotic light was designed using SolidWorks CAD design software, then fabricated using FDM 3D printing and diode laser cutting. The frame structure consists of M6 threaded rods and 3D printed support elements. The electrical system is based on two printed circuit boards containing ESP32 and Atmega328p microcontrollers. Function control is primarily done via the DMX512 protocol, but manual control is also possible.
+
+### Mechanical and Electronic Implementation
+The robotic light was designed using SolidWorks CAD design software, then fabricated using FDM 3D printing and diode laser cutting. The frame structure consists of M6 threaded rods and 3D printed support elements. The electrical system is based on two printed circuit boards containing ESP32 and Atmega328p microcontrollers. Function control is primarily done via the DMX512 protocol, but manual control is also possible.
 
 ### Software Implementation
 The robotic light has three microcontrollers that communicate with each other through a communication system. The program code was written in ArduinoIDE, and its main task is the coordinated control of the hardware based on external control signals. The ESP32 microcontroller module used is capable of both Bluetooth and WiFi communication, which allows for future developments.
