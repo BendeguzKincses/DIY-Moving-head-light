@@ -2,7 +2,7 @@
 ![image](Pictures/IMG_20250401_111736.jpg)
 
 ## Table of contents
-- [Galery](#galery)
+- [Gallery](#gallery)
 - [English description](#english-description)
     - [Overview](#overview)
     - [Introduction](#introduction)
@@ -20,7 +20,7 @@
     - [Eredmények és előnyök](#eredmények-és-előnyök)
     - [Befejezés](#befejezés)
 
-## Galery
+## Gallery
 ![image](Pictures/IMG_20250401_113951.jpg)
 ![image](Pictures/IMG_20250401_114439.jpg)
 ![image](Pictures/IMG_20250401_141533.jpg)
