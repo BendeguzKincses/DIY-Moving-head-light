@@ -10,8 +10,8 @@
     - [Results and Advantages](#results-and-advantages)
     - [Conclusion](#conclusion)
 - [Magyar leírás](#magyar-leírás)
-      - [A projekt teljes, részletes műszaki dokumentációjának olvasása (Markdown formátum)](DOCUMENTATION_HU.md)**
-      - [A dokumentáció letöltése (PDF)](OTIO_Robotlampa_Dokumentacio_Kincses_Bendeguz.pdf)** 
+      - [A projekt teljes, részletes műszaki dokumentációjának olvasása](DOCUMENTATION_HU.md)
+      - [A dokumentáció letöltése (PDF)](OTIO_Robotlampa_Dokumentacio_Kincses_Bendeguz.pdf) 
 - [Magyar összefoglaló](#magyar-összefoglaló)
     - [Bevezetés](#bevezetés)
     - [Mechanikai és elektronikai megvalósítás](#mechanikai-és-elektronikai-megvalósítás)
