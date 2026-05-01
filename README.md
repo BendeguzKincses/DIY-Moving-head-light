@@ -22,6 +22,7 @@
 
 ## Gallery
 ![image](Pictures/IMG_20250401_113951.jpg)
+![image](Pictures/34_OTIO_Poszter_Kincses_Bendeguz_email_nelkul.png)
 ![image](Pictures/IMG_20250401_114439.jpg)
 ![image](Pictures/IMG_20250401_141533.jpg)
 ![image](Pictures/MySpot_tteljes_egeszeben.JPG)
